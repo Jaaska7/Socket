@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidStudioLogin", "AndroidStudioLogin\AndroidStudioLogin.csproj", "{ABC4C89F-7E7F-4CAD-B556-59E7B77856C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC4C89F-7E7F-4CAD-B556-59E7B77856C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC4C89F-7E7F-4CAD-B556-59E7B77856C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC4C89F-7E7F-4CAD-B556-59E7B77856C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC4C89F-7E7F-4CAD-B556-59E7B77856C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0831B40-B27D-415C-8A25-BFC165318D4B}
+	EndGlobalSection
+EndGlobal
